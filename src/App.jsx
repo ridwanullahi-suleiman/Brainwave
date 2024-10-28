@@ -8,7 +8,7 @@ import Benefit from "./component/Benefit";
 import Collaboraton from "./component/Collaboraton";
 import Services from "./component/Services";
 import Pricing from "./component/Pricing";
-import RoadMap from "./component/Roadmap";
+import RoadMap from "./component/RoadMap";
 import Footer from "./component/Footer";
 const  App = () => {
 
