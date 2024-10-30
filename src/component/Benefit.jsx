@@ -60,6 +60,7 @@ const Benefit = () => {
               </div>
 
               <ClipPath />
+              hello
             </div>
           ))}
         </div>
