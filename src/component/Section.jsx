@@ -1,4 +1,5 @@
 import SectionSvg from '../assets/svg/SectionSvg'
+import { collabApps } from '../constants'
 const Section = ({
     className,
     id,
@@ -22,7 +23,9 @@ const Section = ({
          )}
     </div>
   )
+ 
 }
+
 
 
 export default Section
